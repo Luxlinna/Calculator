@@ -42,11 +42,11 @@
     overflow: auto;
 }
 .display .operator {
-    color: #EB6666;
+    color: #ee54cc;
 }
 .display .brackets,
 .display .percent {
-    color: #26FED7;
+    color: #3426fe;
 }
 .keys {
     background-color: #292D36;
@@ -82,8 +82,8 @@
     box-shadow: inset 0px 0px 8px rgba(245, 242, 242, 0.2);
 }
 .keys .key.operator span {
-    color: #EB6666;
+    color: #ee54cc;
 } 
 .keys .key.action span {
-    color: #26FED7;
+    color: #3426fe;
 }
